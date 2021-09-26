@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+project = 'Aerostack2'
+copyright = '2021, Universidad Politécnica de Madrid'
 author = 'Graziella'
 
 release = '0.1'
